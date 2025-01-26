@@ -1,7 +1,4 @@
-Here’s a **README.md** file for your basic e-voting system project:
-
-```markdown
-# Basic E-Voting System 🗳️
+# E-Voting System 🗳️
 
 A simple and secure **E-Voting System** implemented in Python to manage voting processes for small-scale elections. The system features distinct roles for admins and voters, ensures voting integrity, and provides results in real-time.
 
